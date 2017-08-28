@@ -1,0 +1,27 @@
+1. Eager to improve my ability in aiding peoples understanding of the significance of data by placing it in a visual context. I express data, patterns, trends and correlations that might go undetected in text-based data through my daily work. I hope to learn better ways and the theories behind why/how data can be exposed and recognized easier through visualization.
+
+2. Looking forward to learning the “best” way of presenting data with tools that go beyond standard charts and graphs. And how sophisticated data displays can be applied in in big data and advanced analytics projects.
+
+3. Python, C/C++, Bash, Cshell/C#
+
+4. Python
+
+5. Created visualizations of dynamics, trajectories and/or other types of dynamical systems under the influence of physical forces.
+
+6. The largest dataset was a compilation of simulation outputs from the Scylla Multi-Code Comparison Project. This project sought to address to what extent different numerical techniques and different implementations of feedback yield different results for a handful of popular hydrodynamic galaxy formation codes. Data from this project was analyzed with a tool called yt (yt is an open-source, permissively-licensed python package for analyzing and visualizing volumetric data - http://yt-project.org/).
+
+7. There are two visualizations that come to mind. One is a statistics graph from Virginia Tufte and Dawn Finley, August 7, 2002 that Tufte calls Minard’s graphic of Napoleon in Russia [minard.png]. This two dimensional plots is used to tell a six-dimensional story. The next is a visualization of more than 10 billion particles used to trace the evolution of the matter distribution in a cubic region of the Universe over 2 billion light-years on a side – the Millennium Simulation.
+
+8. no answer.
+
+9. 50th percentile.
+
+10. 65th percentile.
+
+11. Yes, semi-regularly.
+
+12. Used to be version control tool of choice, current employer prefers use of a different product.
+
+13. Some, but it has been a while.
+
+14. Started listening to a new podcast, My Brother, My Brother and Me. It is a humorous “advice” show – check it out.
